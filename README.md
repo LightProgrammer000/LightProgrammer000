@@ -17,7 +17,7 @@ Sou **engenheiro mecânico**, **técnico em mecânica** e **técnico em informá
 
 ## 🚀 Projetos em Destaque
 
-### 1. **Pentest Wi-Fi - Solyd Offensive Security**
+### **Pentest Wi-Fi - Solyd Offensive Security**
 
 Realizei um teste de **pentest Wi-Fi** durante minha certificação com a **Solyd Offensive Security**, onde trabalhei em técnicas de ataque a redes sem fio, incluindo análise de vulnerabilidades e execução de ataques para testar a segurança de redes Wi-Fi. Esse projeto envolveu o uso de ferramentas como **Aircrack-ng**, **Wireshark**, entre outras. O objetivo foi garantir que redes Wi-Fi estivessem protegidas contra invasões e mostrar como as configurações inadequadas podem ser exploradas por atacantes.
 
@@ -25,9 +25,13 @@ Realizei um teste de **pentest Wi-Fi** durante minha certificação com a **Soly
 - **Ferramentas Usadas**: Aircrack-ng, Wireshark, Kali Linux
 - [Confira o resultado do meu teste completo no Pastebin!](https://pastebin.com/u/LightProgrammer000)
 
-### 2. **Outro Projeto de Pentest**
+### 🛠 **Experiência Profissional**
 
-- Descrição do seu segundo projeto, se houver.
+- **Hospital Pedro Ernesto - HUPE**: Trabalhei com **redes, suporte e banco de dados**. Durante essa experiência, configurei e mantive sistemas de redes e atuei no suporte técnico, além de gerenciar bancos de dados essenciais para o funcionamento da instituição de saúde.
+
+- **Transportadora Brasileira Gasoduto Bolívia-Brasil (TBG)**: Atuei em **manutenção centrada em confiabilidade**, garantindo que sistemas e equipamentos estivessem operando de maneira eficiente, além de realizar tarefas de monitoramento e resolução de falhas em infraestrutura de gásodutos.
+
+- **IBGE**: Fui **investigador de empresas profissional**, realizando pesquisas e coleta de dados econômicos e sociais que contribuíram para os levantamentos e análises feitas pelo IBGE no Brasil.
 
 ## 🏆 Certificações
 
@@ -37,4 +41,5 @@ Realizei um teste de **pentest Wi-Fi** durante minha certificação com a **Soly
 ---
 
 📫 **Entre em contato comigo**:  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu-username) | 📧 **E-mail**: [dltome12121@gmail.com](mailto:dltome12121@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/seu-perfil) | 📧 **E-mail**: [dltome12121@gmail.com](mailto:dltome12121@gmail.com)  
+📜 **Meu Pastebin**: [https://pastebin.com/u/LightProgrammer000](https://pastebin.com/u/LightProgrammer000)
