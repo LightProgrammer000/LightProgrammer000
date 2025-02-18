@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Diego! 👋
 
-<!--
-**LightProgrammer000/LightProgrammer000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **engenheiro mecânico**, **técnico em mecânica** e **técnico em informática** com ênfase em Java. Atualmente, também atuo como **pentester** com certificações pela **Solyd Offensive Security** e **ESecurity**. Tenho uma grande paixão por segurança cibernética e tecnologia, com foco em **pentest** e **pentest Wi-Fi**.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação**: Java, Python, C, C++, C#, PHP, SQL, HTML, CSS, JavaScript, Shell Script, Batch, Portugol
+- **Segurança**: Pentester, Pentester Wi-Fi
+- **Certificações**: Solyd Offensive Security, ESecurity
+- **Outras Habilidades**: Conhecimento avançado em desenvolvimento de software e em testes de segurança.
+
+## 📈 Estatísticas
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true)
+
+## 🚀 Projetos em Destaque
+
+- [Projeto Pentest 1](#): Descrição do seu projeto de pentest.
+- [Projeto Segurança Wi-Fi](#): Breve descrição do seu projeto de pentest Wi-Fi.
+
+---
+
+📫 **Entre em contato comigo**:  
+[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu-username) | 📧 **E-mail**: diego@email.com
