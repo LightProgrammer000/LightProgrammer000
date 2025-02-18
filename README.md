@@ -23,7 +23,7 @@ Realizei um teste de **pentest Wi-Fi** durante minha certificação com a **Soly
 
 - **Certificação**: Solyd Offensive Security
 - **Ferramentas Usadas**: Aircrack-ng, Wireshark, Kali Linux
-- [Confira o resultado do meu teste completo no Pastebin!](https://pastebin.com/u/LightProgrammer000)
+- [Confira mais programas no Pastebin!](https://pastebin.com/u/LightProgrammer000)
 
 ### 🛠 **Experiência Profissional**
 
