@@ -12,7 +12,7 @@ Sou:
 - **Linguagens de Programação**: Java, Python, C, C++, C#, PHP, SQL, HTML, CSS, JavaScript, Shell Script, Batch
 - **Segurança**: Pentester, Pentester Wi-Fi
 - **Certificações**: Solyd Offensive Security, ESecurity; IBSEC
-- **Outras Habilidades**: Conhecimento avançado em desenvolvimento de software e em testes de segurança.
+- **Outras Habilidades**: Conhecimento em desenvolvimento de software e em testes de segurança.
 
 ## 📈 Estatísticas
 
