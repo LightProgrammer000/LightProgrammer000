@@ -6,9 +6,9 @@ Sou **Mechanical Engineer**, **Mechanical Technician** e **IT Technician** with 
 
 ## 💻 Tecnologias & Ferramentas
 
-- **Linguagens de Programação**: Java, Python, C, C++, C#, PHP, SQL, HTML, CSS, JavaScript, Shell Script, Batch, Portugol
+- **Linguagens de Programação**: Java, Python, C, C++, C#, PHP, SQL, HTML, CSS, JavaScript, Shell Script, Batch
 - **Segurança**: Pentester, Pentester Wi-Fi
-- **Certificações**: Solyd Offensive Security, ESecurity
+- **Certificações**: Solyd Offensive Security, ESecurity; IBSEC
 - **Outras Habilidades**: Conhecimento avançado em desenvolvimento de software e em testes de segurança.
 
 ## 📈 Estatísticas
