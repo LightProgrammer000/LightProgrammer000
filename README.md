@@ -13,9 +13,10 @@ Sou **Mechanical Engineer**, **Mechanical Technician** e **IT Technician** with 
 
 ## 📈 Estatísticas
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&hide_title=true)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=lightprogrammer000&show_icons=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lightprogrammer000&layout=compact)
+
 
 ## 🚀 Projetos em Destaque
 
