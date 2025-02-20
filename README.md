@@ -37,9 +37,9 @@ Realizei um teste de **pentest Wi-Fi** durante minha certificação com a **Soly
 
 ## 🏆 Certificações
 
-[![Solyd Offensive Security](https://img.shields.io/badge/Certificado_Solyd_Offensive_Security-brightgreen)] [https://solyd.com.br/)]
-[![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue)](LINK_AQUI)
-[![IBSEC](https://img.shields.io/badge/Certificado_IBSEC-orange)](LINK_AQUI)
+[![Solyd Offensive Security](https://img.shields.io/badge/Certificado_Solyd_Offensive_Security-brightgreen)](https://www.solyd.com/certificados)
+[![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue)](https://www.esecurity.com.br/certificados)
+[![IBSEC](https://img.shields.io/badge/Certificado_IBSEC-orange)](https://ibsec.com.br/)
 
 ---
 
