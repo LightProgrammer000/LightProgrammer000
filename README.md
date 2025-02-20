@@ -1,8 +1,17 @@
-# Olá, eu sou o Diego! 👋
+# Olá, eu sou o Diego! 👨‍💻
 
-Claro! Aqui está a versão com os nomes das profissões em inglês:
+Sou:
+- **Mechanical Engineer**
+- **Mechanical Technician**
+- **IT Technician** with an emphasis on Java.
 
-Sou **Mechanical Engineer**, **Mechanical Technician** e **IT Technician** with an emphasis on Java. Atualmente, também atuo como **Pentester** com certificações pela **Solyd Offensive Security** e **ESecurity**. Tenho uma grande paixão por segurança cibernética e tecnologia, com foco em **Penetration Testing** e **Wi-Fi Penetration Testing**.
+Atualmente, também atuo como:
+- **Pentester** com certificações pela **Solyd Offensive Security** e **ESecurity**.
+
+Tenho uma grande paixão por:
+- **Segurança cibernética** e **Tecnologia**, com foco em:
+  - **Penetration Testing** 
+  - **Wi-Fi Penetration Testing**
 
 ## 💻 Tecnologias & Ferramentas
 
