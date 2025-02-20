@@ -4,14 +4,8 @@ Sou:
 - **Mechanical Engineer**
 - **Mechanical Technician**
 - **IT Technician** with an emphasis on Java.
-
-Atualmente, também atuo como:
-- **Pentester** com certificações pela **Solyd Offensive Security** e **ESecurity**.
-
-Tenho uma grande paixão por:
-- **Segurança cibernética** e **Tecnologia**, com foco em:
-  - **Penetration Testing** 
-  - **Wi-Fi Penetration Testing**
+- **Penetration Testing**
+- **Wi-Fi Penetration Testing**
 
 ## 💻 Tecnologias & Ferramentas
 
