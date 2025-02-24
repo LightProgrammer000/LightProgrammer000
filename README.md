@@ -11,7 +11,7 @@ Sou:
 
 - **Linguagens de Programação**: Java, Python, C, C++, C#, PHP, SQL, HTML, CSS, JavaScript, Shell Script, Batch
 - **Insígnias**: 
-  - ![Python](https://img.shields.io/badge/Python-3.10-blue)
+  - ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
   - ![Java](https://img.shields.io/badge/Java-17-red)
 - **Segurança**: Pentester, Pentester Wi-Fi
 - **Certificações**: Solyd Offensive Security, ESecurity; IBSEC
