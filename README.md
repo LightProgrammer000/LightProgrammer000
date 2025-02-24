@@ -1,18 +1,34 @@
 # Olá, eu sou o Diego! 👨‍💻
 
-Sou:
-- **Mechanical Engineer**
-- **Mechanical Technician**
-- **IT Technician** with an emphasis on Java   ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)
-- **Penetration Testing**  ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-- **Wi-Fi Penetration Testing**
-
 ## 💻 Tecnologias & Ferramentas
 
-- **Linguagens de Programação**: Java, Python, C, C++, C#, PHP, SQL, HTML, CSS, JavaScript, Shell Script, Batch
-- **Segurança**: Pentester, Pentester Wi-Fi
-- **Certificações**: Solyd Offensive Security, ESecurity; IBSEC
-- **Outras Habilidades**: Conhecimento em desenvolvimento de software e em testes de segurança.
+- **Linguagens de Programação**:  
+  ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)  
+  ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)  
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql)  
+
+- **Segurança**:  
+  ![Pentesting](https://img.shields.io/badge/Pentesting-FF4E00?style=for-the-badge&logo=security)  
+  ![Wi-Fi Pentesting](https://img.shields.io/badge/Wi%2DFi%20Pentest-3498db?style=for-the-badge&logo=wifi)  
+  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux)  
+
+- **Certificações Principais**:  
+  [![Solyd Offensive Security](https://img.shields.io/badge/Certificado_Solyd_Offensive_Security-brightgreen?style=for-the-badge)](https://www.solyd.com.br)  
+  [![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue?style=for-the-badge)](https://www.esecurity.com.br)  
+  [![IBSEC](https://img.shields.io/badge/Certificado_IBSEC-orange?style=for-the-badge)](https://ibsec.com.br/)
+
+- **Outras Habilidades**:  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)  
+  ![Wireshark](https://img.shields.io/badge/Wireshark-166D7A?style=for-the-badge&logo=wireshark)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
+
 
 ## 📈 Estatísticas
 
