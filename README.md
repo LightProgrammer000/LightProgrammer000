@@ -3,16 +3,11 @@
 ## 💻 Tecnologias & Ferramentas
 
 - **Linguagens de Programação**:  
-  ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)  ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)  
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)  
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql)  
-
+  ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)  ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql)  
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) 
+  
 - **Segurança**:  
   ![Pentesting](https://img.shields.io/badge/Pentesting-FF4E00?style=for-the-badge&logo=security)  
   ![Wi-Fi Pentesting](https://img.shields.io/badge/Wi%2DFi%20Pentest-3498db?style=for-the-badge&logo=wifi)  
