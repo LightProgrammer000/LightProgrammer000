@@ -33,11 +33,10 @@
 
 ### **Pentest Wi-Fi - Solyd Offensive Security**
 
-Realizei um teste de **pentest Wi-Fi** durante minha certificação com a **Solyd Offensive Security**, onde trabalhei em técnicas de ataque a redes sem fio, incluindo análise de vulnerabilidades e execução de ataques para testar a segurança de redes Wi-Fi. Esse projeto envolveu o uso de ferramentas como **Aircrack-ng**, **Wireshark**, entre outras. O objetivo foi garantir que redes Wi-Fi estivessem protegidas contra invasões e mostrar como as configurações inadequadas podem ser exploradas por atacantes.
+Realiado teste de **pentest Wi-Fi** durante minha certificação com a **Solyd Offensive Security**, onde trabalhei em técnicas de ataque a redes sem fio, incluindo análise de vulnerabilidades e execução de ataques para testar a segurança de redes Wi-Fi. Esse projeto envolveu o uso de ferramentas como **Aircrack-ng**, **Wireshark**, entre outras. O objetivo foi garantir que redes Wi-Fi estivessem protegidas contra invasões e mostrar como as configurações inadequadas podem ser exploradas por atacantes.
 
 - **Certificação**: Solyd Offensive Security;
 - **Ferramentas Usadas**: Aircrack-ng, Wireshark, Kali Linux
-- [Confira mais programas no Pastebin!](https://pastebin.com/u/LightProgrammer000)
 
 ### 🛠 **Experiência Profissional**
 
