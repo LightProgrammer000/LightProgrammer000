@@ -3,7 +3,7 @@
 Sou:
 - **Mechanical Engineer**
 - **Mechanical Technician**
-- **IT Technician** with an emphasis on Java ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)
+- **IT Technician** with an emphasis on Java   ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)
 - **Penetration Testing**
 - **Wi-Fi Penetration Testing**
 
