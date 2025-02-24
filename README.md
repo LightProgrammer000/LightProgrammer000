@@ -63,6 +63,5 @@ Realizei um teste de **pentest Wi-Fi** durante minha certificação com a **Soly
 📫 **Entre em contato comigo**:  
 [LinkedIn](https://www.linkedin.com/in/seu-perfil) | 📧 **E-mail**: [dltome12121@gmail.com](mailto:dltome12121@gmail.com)  
 
-🌟 **Light Pastebin** (✨ Tema Bom ✨): [https://pastebin.com/u/LightProgrammer000](https://pastebin.com/u/LightProgrammer000)  
-🌑 **Dark Pastebin** (💀 Tema Mal 💀): [https://pastebin.com/u/DarkProgrammer000](https://pastebin.com/u/DarkProgrammer000)
+🌟 ✨ **Light Pastebin**✨: [https://pastebin.com/u/LightProgrammer000](https://pastebin.com/u/LightProgrammer000)  
 
