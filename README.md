@@ -4,8 +4,9 @@
 
 - **Mechanical Engineer** 🛠️  
 - **Mechanical Technician** 🔧  
-- **IT Technician with an emphasis on Java** 💻 ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)  
-- **Penetration Testing** 🔐 ![Pentest](https://img.shields.io/badge/Penetration%20Testing-FF4E00?style=for-the-badge&logo=security)  
+
+- **IT Technician with an emphasis on Java** 💻 ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)
+- **Penetration Testing** 🔐 ![Pentest](https://img.shields.io/badge/Penetration%20Testing-FF4E00?style=for-the-badge&logo=security)
 - **Wi-Fi Penetration Testing** 📡 ![Wi-Fi](https://img.shields.io/badge/Wi%2DFi%20Pentest-3498db?style=for-the-badge&logo=wifi)
 
 ## 💻 Tecnologias & Ferramentas
