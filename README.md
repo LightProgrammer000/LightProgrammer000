@@ -3,7 +3,7 @@
 Sou:
 - **Mechanical Engineer**
 - **Mechanical Technician**
-- **IT Technician** with an emphasis on Java.
+- **IT Technician** with an emphasis on Java ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)
 - **Penetration Testing**
 - **Wi-Fi Penetration Testing**
 
@@ -12,7 +12,6 @@ Sou:
 - **Linguagens de Programação**: Java, Python, C, C++, C#, PHP, SQL, HTML, CSS, JavaScript, Shell Script, Batch
 - **Insígnias**: 
   - ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-  - ![Java](https://img.shields.io/badge/Java-17-red)
 - **Segurança**: Pentester, Pentester Wi-Fi
 - **Certificações**: Solyd Offensive Security, ESecurity; IBSEC
 - **Outras Habilidades**: Conhecimento em desenvolvimento de software e em testes de segurança.
