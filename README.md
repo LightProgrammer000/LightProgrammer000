@@ -3,8 +3,7 @@
 ## 💻 Tecnologias & Ferramentas
 
 - **Linguagens de Programação**:  
-  ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)  
-  ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)  
+  ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java)  ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)  
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)  
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)  
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)  
