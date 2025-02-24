@@ -19,11 +19,6 @@
 - **Segurança**:  
   ![Pentesting](https://img.shields.io/badge/Pentesting-FF4E00?style=for-the-badge&logo=security) ![Wi-Fi Pentesting](https://img.shields.io/badge/Wi%2DFi%20Pentest-3498db?style=for-the-badge&logo=wifi)  
 
-- **Certificações Principais**:  
-  [![Solyd Offensive Security](https://img.shields.io/badge/Certificado_Solyd_Offensive_Security-brightgreen?style=for-the-badge)](https://www.solyd.com.br)  
-  [![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue?style=for-the-badge)](https://www.esecurity.com.br)  
-  [![IBSEC](https://img.shields.io/badge/Certificado_IBSEC-orange?style=for-the-badge)](https://ibsec.com.br/)
-
 - **Outras Habilidades**:  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux)
