@@ -20,11 +20,6 @@
 - **Segurança**:  
   ![Pentesting](https://img.shields.io/badge/Pentesting-FF4E00?style=for-the-badge&logo=security) ![Wi-Fi Pentesting](https://img.shields.io/badge/Wi%2DFi%20Pentest-3498db?style=for-the-badge&logo=wifi)  
 
-- **Outras Habilidades**:  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux)
-
-
 ## 📈 Estatísticas
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=lightprogrammer000&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
