@@ -52,6 +52,8 @@ Realiado teste de **pentest Wi-Fi** durante minha certificação com a **Solyd O
 [![ESecurity](https://img.shields.io/badge/Certificado_ESecurity-blue)](https://www.esecurity.com.br)
 [![IBSEC](https://img.shields.io/badge/Certificado_IBSEC-orange)](https://ibsec.com.br/)
 
+- Outras: LinkedIn
+
 ---
 
 📫 **Entre em contato comigo**:  
