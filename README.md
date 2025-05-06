@@ -1,5 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/darkprogrammer000.png" alt="Seu emblema de imagem" /> 
-
 # Olá, eu sou o Diego! 👨‍💻
 
 ## 💼 Profissões & Qualificações
@@ -29,6 +27,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lightprogrammer000&layout=compact&langs_count=100&theme=radical)
 
 ![GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=lightprogrammer000&theme=radical)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/darkprogrammer000.png" alt="Seu emblema de imagem" /> 
 
 
 ## 🚀 Projetos em Destaque
