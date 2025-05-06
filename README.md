@@ -1,5 +1,7 @@
-# Olá, eu sou o Diego! 👨‍💻
 <img src="https://tryhackme-badges.s3.amazonaws.com/darkprogrammer000.png" alt="Seu emblema de imagem" /> 
+
+# Olá, eu sou o Diego! 👨‍💻
+
 ## 💼 Profissões & Qualificações
 
 - **Mechanical Engineer** 🛠️  
