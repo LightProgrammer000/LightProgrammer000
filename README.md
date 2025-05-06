@@ -1,5 +1,5 @@
 # Olá, eu sou o Diego! 👨‍💻
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4248947" style='border:none;'></iframe> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/darkprogrammer000.png" alt="Seu emblema de imagem" /> 
 ## 💼 Profissões & Qualificações
 
 - **Mechanical Engineer** 🛠️  
