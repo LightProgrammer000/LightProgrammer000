@@ -40,14 +40,6 @@ Realiado teste de **pentest Wi-Fi** durante minha certificação com a **Solyd O
 - **Certificação**: Solyd Offensive Security;
 - **Ferramentas Usadas**: Aircrack-ng, Wireshark, Kali Linux
 
-### 🛠 **Experiência Profissional**
-
-- **Hospital Pedro Ernesto - HUPE**: Trabalhei com **redes, suporte e banco de dados**. Durante essa experiência, configurei e mantive sistemas de redes e atuei no suporte técnico, além de gerenciar bancos de dados essenciais para o funcionamento da instituição de saúde.
-
-- **Transportadora Brasileira Gasoduto Bolívia-Brasil (TBG)**: Atuei em **manutenção centrada em confiabilidade**, garantindo que sistemas e equipamentos estivessem operando de maneira eficiente, além de realizar tarefas de monitoramento e resolução de falhas em infraestrutura de gásodutos.
-
-- **IBGE**: Fui **investigador de empresas profissional**, realizando pesquisas e coleta de dados econômicos e sociais que contribuíram para os levantamentos e análises feitas pelo IBGE no Brasil.
-
 ## 🏆 Certificações
 
 [![Solyd Offensive Security](https://img.shields.io/badge/Certificado_Solyd_Offensive_Security-brightgreen)](https://www.solyd.com.br)
