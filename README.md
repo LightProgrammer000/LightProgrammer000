@@ -51,7 +51,7 @@ Realiado teste de **pentest Wi-Fi** durante minha certificação com a **Solyd O
 ---
 
 📫 **Entre em contato comigo**:  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | 📧 **E-mail**: [dltome12121@gmail.com](mailto:dltome12121@gmail.com)  
+[LinkedIn](https://br.linkedin.com/in/diego-lino-tom%C3%A9-96a7b0250) | 📧 **E-mail**: [dltome12121@gmail.com](mailto:dltome12121@gmail.com)  
 
 🌟 ✨ **Light Pastebin**✨: [https://pastebin.com/u/LightProgrammer000](https://pastebin.com/u/LightProgrammer000)  
 
